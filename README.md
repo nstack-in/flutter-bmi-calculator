@@ -1,16 +1,29 @@
-# flutter_demo
+# BMI Calculator
 
-A new Flutter project.
+I started a YouTube series where I will make complete app in one video.
 
-## Getting Started
+> If you like our content then consider subscribing, It really motivates us.
 
-This project is a starting point for a Flutter application.
+## Article
 
-A few resources to get you started if this is your first Flutter project:
+There is complete write of the app you can find that on our [blog nstack.in](https://www.nstack.in/blog/flutter-bmi-calculator-app/).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://www.nstack.in/blog/flutter-bmi-calculator-app/
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## YouTube
+
+There is video available at youtbe and here is the direct link
+
+https://www.youtube.com/watch?v=T3dNQiPU8Jo
+
+## Screenshot
+
+![Screenshot](https://res.cloudinary.com/nitishk72/image/upload/v1595680512/nstack_in/blog/flutter/flutter-bmi-calculator.png)
+
+## For Contributors
+
+If you would like to improve this and contribute then you are welcome. But please make a different brach before making any new change
+
+I want to keep the original and improved version both.
+
+# Thanks for coming here
