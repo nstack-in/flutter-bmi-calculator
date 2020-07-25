@@ -1,5 +1,7 @@
 # BMI Calculator
 
+![Screenshot](https://res.cloudinary.com/nitishk72/image/upload/v1595680512/nstack_in/blog/flutter/flutter-bmi-calculator.png)
+
 I started a YouTube series where I will make complete app in one video.
 
 > If you like our content then consider subscribing, It really motivates us.
@@ -15,10 +17,6 @@ https://www.nstack.in/blog/flutter-bmi-calculator-app/
 There is video available at youtbe and here is the direct link
 
 https://www.youtube.com/watch?v=T3dNQiPU8Jo
-
-## Screenshot
-
-![Screenshot](https://res.cloudinary.com/nitishk72/image/upload/v1595680512/nstack_in/blog/flutter/flutter-bmi-calculator.png)
 
 ## For Contributors
 
