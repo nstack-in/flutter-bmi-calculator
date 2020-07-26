@@ -24,4 +24,8 @@ If you would like to improve this and contribute then you are welcome. But pleas
 
 I want to keep the original and improved version both.
 
+## Credit
+
+The app was originally created by the `Sptadeepa Ghosh`, All the UI is done by her. I only fixed the bug and after that made the made video. She don't use github so it's I uploaded on mine and shared with all.
+
 # Thanks for coming here
